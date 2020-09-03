@@ -1,0 +1,27 @@
+body{
+  background-color: #e89f71;
+}
+hr{
+  border-color :#7d0633;
+  border-style: dotted none none;
+  width: 5%;
+  height: 2px;
+  border-width: 5px;
+}
+#work{
+  color: #31112c;
+  background-color: #c87941 ;
+}
+
+#education{
+  color: #31112c;
+  background-color: #c87941;
+}
+
+a{
+    /*background-color: #e0ece4;*/
+}
+
+a:hover{
+  background-color: #66bfbf;
+}
